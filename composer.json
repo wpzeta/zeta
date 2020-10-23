@@ -1,12 +1,12 @@
 {
-    "name": "wpzeta/zeta",
-    "description": "Zeta is a minimal WordPress starter theme.",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Zorca Orcinus",
-            "email": "vs@zorca.org"
-        }
-    ],
-    "require": {}
+	"name": "wpzeta/zeta",
+	"description": "Zeta is a minimal WordPress starter theme.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Zorca Orcinus",
+			"email": "vs@zorca.org"
+		}
+	],
+	"require": {}
 }
